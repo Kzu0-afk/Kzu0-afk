@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Judiel Villahermosa Oppura, a third-year BSIT (Information Technology) Student
-- 👀 I’m interested in video games and researching
+- 👀 Proficient in:
+- Backend Languages: C, Java, Python
+- Frontend Languages: HTML, Javascript, ReactJS, CSS, Tailwind CSS
 - 🌱 I’m currently learning various frontend languages 
 - 📫 How to reach me - Feel free to reach me via github and linkedin
 - 😄 Pronouns: he/him

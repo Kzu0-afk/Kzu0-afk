@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Kzu0-afk/Kzu0-afk/blob/main/mashlegif.gif?raw=true" alt="Profile Banner" height="200">
+  <img src="https://github.com/Kzu0-afk/Kzu0-afk/blob/main/mashlegif.gif?raw=true" alt="Profile Banner" height="200" width="800">
 
   <h1>
     Hi there, I'm Kazu00 👋

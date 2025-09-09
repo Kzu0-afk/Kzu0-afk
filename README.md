@@ -1,12 +1,10 @@
 <div align="center">
-  <!-- THIS IS THE CORRECTED IMAGE LINK -->
-  <img src=https://github.com/Kzu0-afk/Kzu0-afk/blob/main/mashlegif.gif?raw=true" alt="Profile Banner" width="800">
+  <img src=https://github.com/Kzu0-afk/Kzu0-afk/blob/main/mashlegif.gif?raw=true" alt="Profile Banner" height ="300" width="800">
   
   <h1>Hi there, I'm Judiel Villahermosa Oppura 👋</h1>
   <h3>A third-year BSIT student passionate about building things for the web.</h3>
   
   <p>
-    <!-- REMEMBER to replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username -->
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
       <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Judiel's LinkedIn" />
     </a>
@@ -47,5 +45,3 @@ Here are some of the technologies I'm proficient with:
 <br>
 <img src="https://komarev.com/ghpvc/?username=kzu0-afk&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </div>
-
-

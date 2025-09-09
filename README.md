@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Width attribute removed to allow natural scaling and prevent distortion -->
   <img src="https://github.com/Kzu0-afk/Kzu0-afk/blob/main/mashlegif.gif?raw=true" alt="Profile Banner" height="200">
 
   <h1>
@@ -19,23 +18,16 @@
   </div>
 </div>
 
-<!-- Clean, stable SVG divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line.svg" width="100%">
+---
 
-<!-- Two-Column Layout: About Me & Tech Stack -->
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
 ### 👤 About Me
 
 - 🎓 I’m a fourth-year **Information Technology Undergraduate** with a focus on software and web development.
 - 🌱 I’m currently diving deeper into the **React ecosystem** and the **Java Language**.
 - 💬 Ask me about **Java, Python, Javascript**, and building responsive user interfaces.
 - ⚡ Fun fact: My daily routine is a simple loop: `workout(); sleep(); code(); grind(); gaming();`
-      
-    </td>
-    <td valign="top" width="50%">
+
+---
       
 ### 🛠️ Tech Arsenal
 
@@ -47,12 +39,7 @@ A collection of the tools and languages I'm proficient with:
   </a>
 </p>
 
-    </td>
-  </tr>
-</table>
-
-<!-- Clean, stable SVG divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line.svg" width="100%">
+---
 
 ### 🚀 Projects Showcase
 
@@ -64,10 +51,7 @@ Here are some of the projects I've worked on. You can find more on my repositori
 | **[Calculator](https://github.com/Kzu0-afk/Calculator)** | A simple calculator application built with Java, with an emphasis on appropriate design. | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Java Swing](https://img.shields.io/badge/Java%20Swing-596D78?style=for-the-badge&logo=java&logoColor=white) |
 | **[IT342-G2-Demo](https://github.com/Kzu0-afk/IT342-G2-Demo)** | A demonstration project developed for the IT342 course to showcase key concepts. | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
 
-*To add more projects, simply copy and paste a new row in the table above.*
-
-<!-- Clean, stable SVG divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line.svg" width="100%">
+---
 
 ### 📊 GitHub Stats
 
@@ -75,7 +59,6 @@ Here are some of the projects I've worked on. You can find more on my repositori
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kzu0-afk&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&count_private=true" alt="Kzu0-afk Top Languages" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Kzu0-afk&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kzu0-afk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Kzu0-afk GitHub Stats" />
 </p>

@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://github.com/Kzu0-afk/Kzu0-afk/blob/main/mashlegif.gif?raw=true" alt="Profile Banner" height="200" width="800">
+  <img src="https://github.com/Kzu0-afk/Kzu0-afk/blob/main/mashlegif.gif?raw=true" alt="Profile Banner" height="200" width="600">
 
   <h1>
-    Hi there, I'm Kazu00 👋
+    Kazu00 desu!
   </h1>
   
   <p>
@@ -11,10 +11,9 @@
     I'm passionate about building scalable web applications and exploring the intersection of backend logic and intuitive user interfaces.
   </p>
 
-  <!-- Social Links -->
   <div>
     <!-- INSTRUCTION: Replace 'YOUR_LINKEDIN_USERNAME' with your actual LinkedIn username -->
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://linkedin.com/in/judiel-oppura-581549245" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </div>
@@ -27,9 +26,9 @@
   <tr>
     <td valign="top" width="50%">
       
-### 👨‍💻 About Me
+### 👨‍💻 ME 👨‍💻
 
-- 🎓 I’m a fourth-year **Information Technology Student** with a focus on software and web development.
+- 🎓 I’m a fourth-year **Information Technology Undergraduate** with a focus on software and web development.
 - 🌱 I’m currently diving deeper into the **React ecosystem** and the **Java Language**, exploring modern frontend and backend frameworks.
 - 💬 Ask me about **Java, Python, Javascript**, and building responsive user interfaces.
 - ⚡ Fun fact: My daily routine is a simple loop: `workout(); sleep(); code(); grind(); gaming();`
@@ -37,7 +36,7 @@
     </td>
     <td valign="top" width="50%">
       
-### 🛠️ My Tech Stack
+### 🛠️ TECH ARSENAL 🛠️
 
 A collection of the tools and languages I'm proficient with:
 
@@ -53,7 +52,7 @@ A collection of the tools and languages I'm proficient with:
 
 ---
 
-### 🚀 My Projects Showcase
+### 🚀 PROJECTS SHOWCASE 🚀
 
 Here are some of the projects I've worked on. You can find more on my repositories tab!
 
@@ -67,7 +66,7 @@ Here are some of the projects I've worked on. You can find more on my repositori
 
 ---
 
-### 📊 My GitHub Activity & Stats
+### 📊 GITHUB ACTIVITY & STATS 📊
 
 <div align="center">
   

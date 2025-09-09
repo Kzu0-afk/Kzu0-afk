@@ -45,8 +45,6 @@ A collection of the tools and languages I'm proficient with:
     <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,react,tailwind,git,vscode,figma,mysql&perline=6&theme=dark" />
   </a>
 </p>
-
-    </td>
   </tr>
 </table>
 

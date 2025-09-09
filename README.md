@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="mashlegif.gif alt="Profile Banner">
+  <!-- THIS IS THE CORRECTED IMAGE LINK -->
+  <img src=https://github.com/Kzu0-afk/Kzu0-afk/blob/main/mashlegif.gif?raw=true" alt="Profile Banner" width="800">
   
   <h1>Hi there, I'm Judiel Villahermosa Oppura 👋</h1>
   <h3>A third-year BSIT student passionate about building things for the web.</h3>
   
   <p>
+    <!-- REMEMBER to replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username -->
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
       <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Judiel's LinkedIn" />
     </a>
@@ -38,9 +40,12 @@ Here are some of the technologies I'm proficient with:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kzu0-afk&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Kzu0-afk's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kzu0-afk&layout=compact&theme=github_dark&hide_border=true" alt="Kzu0-afk's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kzu0-afk&layout=compact&theme=github_dark&hide_border=true&count_private=true" alt="Kzu0-afk's Top Languages" />
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=kzu0-afk&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
+<br>
+<img src="https://komarev.com/ghpvc/?username=kzu0-afk&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </div>
+
+

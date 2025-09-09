@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Kzu0-afk/Kzu0-afk/blob/main/mashlegif.gif?raw=true" alt="Profile Banner" height="150" width="800">
+  <img src="https://github.com/Kzu0-afk/Kzu0-afk/blob/main/mashlegif.gif?raw=true" alt="Profile Banner" height="200" width="850">
   
   <h1>Hi there, I'm Judiel Villahermosa Oppura 👋</h1>
   <h3>A third-year BSIT student passionate about building things for the web.</h3>

@@ -12,7 +12,7 @@
   </p>
 
   <div>
-    <a href="https://linkedin.com/in/judiel-oppura-581549245" target="_blank">
+    <a href="https://linkedin.com/in/judiel-oppura-581549245" target="\_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </div>
@@ -48,8 +48,9 @@ Here are some of the projects I've worked on. You can find more on my repositori
 | Project Name | Description | Technologies Used |
 | :--- | :--- | :--- |
 | **[Documentations Repo](https://github.com/Kzu0-afk/Documentations)** | A repository for functional requirements, Gantt Charts, ERD, and UI/UX design. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) |
-| **[blockchain-notepad](https://github.com/Kzu0-afk/blockchain-notepad)** | A decentralized note-taking application using basic blockchain principles, built with Java & Spring Boot. | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) |
-| **[ledgerly-web](https://github.com/Kzu0-afk/ledgerly-web)** | A web-based ledger application for tracking personal transactions, built with React and styled with Tailwind CSS. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **[blockchain-notepad](https://github.com/Kzu0-afk/blockchain-notepad)** | A decentralized note-taking application using basic blockchain principles. | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| **[ledgerly-web](https://github.com/Kzu0-afk/ledgerly-web)** | A web-based ledger application for tracking personal transactions, built with Python. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **[Kiro](https://github.com/Kzu0-afk/Kiro)** | *[Please add a brief description of your project here.]* | *[Add tech badges here]* |
 
 ---
 
@@ -62,8 +63,3 @@ Here are some of the projects I've worked on. You can find more on my repositori
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kzu0-afk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Kzu0-afk GitHub Stats" />
 </p>
-
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=kzu0-afk&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-</div>

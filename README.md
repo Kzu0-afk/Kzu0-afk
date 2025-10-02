@@ -35,9 +35,8 @@ A collection of the tools and languages I'm proficient with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,react,tailwind,git,vscode,figma,mysql,idea,cursor&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,react,tailwind,git,vscode,figma,mysql,idea&perline=7&theme=dark" />
   </a>
-  <a href="https://kiro.dev" target="_blank"><img src="https://img.shields.io/badge/Kiro-7B42F6?style=for-the-badge&logo=amazon&logoColor=white" alt="Kiro IDE"/></a>
 </p>
 
 ---
@@ -48,7 +47,7 @@ Here are some of the projects I've worked on. You can find more on my repositori
 
 | Project Name | Description | Technologies Used |
 | :--- | :--- | :--- |
-| **[Documentations Repo](https://github.com/Kzu0-afk/Documentations)** | A repository for functional requirements, Gantt Charts, ERD, and UI/UX design. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) |
+| **[Documentations Repo](https://github.com/Kzu0-afk/Documentations)** | A repository for functional requirements, Gantt Charts, ERD, and UI/UX design. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) |
 | **[blockchain-notepad](https://github.com/Kzu0-afk/blockchain-notepad)** | A decentralized note-taking application using basic blockchain principles. | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 | **[ledgerly-web](https://github.com/Kzu0-afk/ledgerly-web)** | A web-based ledger application for tracking personal transactions, built with Python. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 

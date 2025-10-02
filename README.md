@@ -35,7 +35,7 @@ A collection of the tools and languages I'm proficient with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,react,tailwind,git,vscode,figma,mysql&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,react,tailwind,git,vscode,figma,mysql,idea&perline=7&theme=dark" />
   </a>
 </p>
 
@@ -48,8 +48,8 @@ Here are some of the projects I've worked on. You can find more on my repositori
 | Project Name | Description | Technologies Used |
 | :--- | :--- | :--- |
 | **[Documentations Repo](https://github.com/Kzu0-afk/Documentations)** | A repository for functional requirements, Gantt Charts, ERD, and UI/UX design. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) |
-| **[Calculator](https://github.com/Kzu0-afk/Calculator)** | A simple calculator application built with Java, with an emphasis on appropriate design. | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Java Swing](https://img.shields.io/badge/Java%20Swing-596D78?style=for-the-badge&logo=java&logoColor=white) |
-| **[IT342-G2-Demo](https://github.com/Kzu0-afk/IT342-G2-Demo)** | A demonstration project developed for the IT342 course to showcase key concepts. | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
+| **[blockchain-notepad](https://github.com/Kzu0-afk/blockchain-notepad)** | A decentralized note-taking application using basic blockchain principles, built with Java & Spring Boot. | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) |
+| **[ledgerly-web](https://github.com/Kzu0-afk/ledgerly-web)** | A web-based ledger application for tracking personal transactions, built with React and styled with Tailwind CSS. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
 ---
 

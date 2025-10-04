@@ -2,7 +2,7 @@
   <img src="https://github.com/Kzu0-afk/Kzu0-afk/blob/main/mashlegif.gif?raw=true" alt="Profile Banner" height="250" width="800">
 
   <h1>
-    Kazu00 です! 👋
+   - Kazu00 です! 👋 -
   </h1>
   
   <p>
@@ -41,7 +41,7 @@ A collection of the tools and languages I'm proficient with:
 
 ---
 
-### 🚀 Projects Showcase
+### 🚀 Current Project Showcase
 
 Here are some of the projects I've worked on. You can find more on my repositories tab!
 

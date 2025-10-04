@@ -22,10 +22,10 @@
 
 ### 👤 About Me 👤
 
-🎓 I’m a fourth-year **Information Technology Undergraduate** with a focus on software and web development.
-🌱 I’m currently diving deeper into the **React ecosystem** and the **Java Language**.
-💬 Ask me about **Java, Python, Javascript**, and building responsive user interfaces.
-⚡ Fun fact: My daily routine is a simple loop: `workout(); sleep(); code(); grind(); gaming();`
+- 🎓 I’m a fourth-year **Information Technology Undergraduate** with a focus on software and web development.
+- 🌱 I’m currently diving deeper into the **React ecosystem** and the **Java Language**.
+- 💬 Ask me about **Java, Python, Javascript**, and building responsive user interfaces.
+- ⚡ Fun fact: My daily routine is a simple loop: `workout(); sleep(); code(); grind(); gaming();`
 
 ---
       

@@ -34,7 +34,7 @@ A collection of the tools and languages I'm proficient with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,react,tailwind,git,vscode,figma,mysql,idea&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=.net,java,python,c,javascript,html,css,react,tailwind,git,vscode,figma,mysql,idea&perline=7&theme=dark" />
   </a>
 </p>
 

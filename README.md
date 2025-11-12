@@ -20,7 +20,7 @@
 
 ---
 
-### 👤 Bout Me 👤
+### 👤 About Me 👤
 
 - 🎓 Fourth-year **Information Technology Undergraduate** with a focus on software and web development.
 - 🌱 Currently diving deeper into the **React ecosystem** and the **Java Language**.

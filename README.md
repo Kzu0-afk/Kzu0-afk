@@ -6,7 +6,7 @@
   </h1>
   
   <p>
-    <strong>A fourth-year Information Technology undergraduate specializing in full-stack development.</strong>
+    <strong>Fourth-year Information Technology undergraduate specializing in full-stack development.</strong>
     <br/>
     I'm passionate about building scalable web applications and exploring the intersection of backend logic and intuitive user interfaces as well as developing personal projects.
   </p>

@@ -30,7 +30,7 @@
       
 ### 🛠️ Tech Stack 🛠️
 
-A collection of the tools and languages I'm proficient with:
+Collection of the tools and languages I'm proficient with:
 
 <p align="center">
   <a href="https://skillicons.dev">

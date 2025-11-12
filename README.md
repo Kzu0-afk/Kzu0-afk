@@ -8,7 +8,7 @@
   <p>
     <strong>Fourth-year Information Technology undergraduate specializing in Full-Stack Development.</strong>
     <br/>
-    Passionate about building scalable web applications and exploring the intersection of backend logic and intuitive user interfaces as well as developing personal projects.
+    Passionate about building scalable Web Applications and exploring the intersection of backend logic and intuitive user interfaces as well as developing personal projects.
   </p>
 
   <div>

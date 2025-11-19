@@ -56,7 +56,7 @@ Here are some of the projects I've worked on. You can find more on my repositori
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kzu0-afk&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&count_private=true" alt="Kzu0-afk Top Languages" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Kzu0-afk&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Kzu0-afk&theme=github-dark-blue&hide_border=true&timezone=Asia%2FManila&count_private=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kzu0-afk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Kzu0-afk GitHub Stats" />

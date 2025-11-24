@@ -28,7 +28,7 @@
 
 ---
       
-### 🛠️ Tech Stack 🛠️
+### 🛠️ TECH STACK 🛠️
 
 Collection of the tools and languages I'm proficient with:
 

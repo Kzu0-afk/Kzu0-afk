@@ -40,7 +40,7 @@ Collection of the tools and languages I'm proficient with:
 
 ---
 
-### 🚀 Projects Showcase 🚀 
+### 🚀 PROJECTS SHOWCASE 🚀 
 
 Here are some of the projects I've worked on. You can find more on my repositories tab!
 

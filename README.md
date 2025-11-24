@@ -44,7 +44,7 @@ Collection of the tools and languages I'm proficient with:
 
 Here are some of the projects I've worked on. You can find more on my repositories tab!
 
-| Project Name | Description | Technologies Used |
+| Project Name | Description | Techs Used |
 | :--- | :--- | :--- |
 | **[Documentations Repo](https://github.com/Kzu0-afk/Documentations)** | A repository for functional requirements, Gantt Charts, ERD, and UI/UX design. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) |
 | **[blockchain-notepad](https://github.com/Kzu0-afk/blockchain-notepad)** | A decentralized note-taking application using basic blockchain principles. | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
@@ -52,7 +52,7 @@ Here are some of the projects I've worked on. You can find more on my repositori
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GITHUB STATS
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kzu0-afk&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&count_private=true" alt="Kzu0-afk Top Languages" />

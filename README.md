@@ -52,7 +52,7 @@ Here are some of the projects I've worked on. You can find more on my repositori
 
 ---
 
-### 📊 GITHUB STATS
+### 📊 STATS
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kzu0-afk&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&count_private=true" alt="Kzu0-afk Top Languages" />

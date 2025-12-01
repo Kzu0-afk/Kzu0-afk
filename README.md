@@ -2,7 +2,7 @@
   <img src="https://github.com/Kzu0-afk/Kzu0-afk/blob/main/mashlegif.gif?raw=true" alt="Profile Banner" height="250" width="800">
 
   <h1>
-    Kazu00
+    Kazu00 [Full-Stack Developer]
   </h1>
   
   <p>

@@ -29,7 +29,7 @@
 
 ---
       
-### 🛠️ TECH STACK 🛠️
+### 🛠️ TECH STACKS 🛠️
 
 Collection of the tools and languages I'm proficient with:
 

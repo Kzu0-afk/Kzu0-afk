@@ -3,7 +3,7 @@
 
   <h1>
     - Kazu00 -
-  <br/> [Full-Stack Developer // DevOps]
+  <br/> [Full-Stack Developer / DevOps]
   </h1>
   
   <p>

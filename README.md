@@ -3,7 +3,6 @@
 
   <h1>
      Kazu0  
-  <br/> Kzuo-afk
   <br/> [Full-Stack // DevOps]
   </h1>
   

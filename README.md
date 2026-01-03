@@ -1,3 +1,15 @@
+Of course. I've updated your TECH STACK section to include Next.js, NestJS, TypeScript, and Node.js as requested.
+
+To keep the layout clean and balanced, I also adjusted the number of icons per line.
+
+Here is the complete, updated code. You can copy and paste this directly into your README.md file.
+
+The Final, Updated README.md Code
+code
+Markdown
+download
+content_copy
+expand_less
 <div align="center">
   <img src="https://github.com/Kzu0-afk/Kzu0-afk/blob/main/mashlegif.gif?raw=true" alt="Profile Banner" height="250" width="800">
 
@@ -35,7 +47,8 @@ Collection of the tools and languages I'm proficient with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,react,tailwind,git,vscode,figma,mysql,idea,dotnet&perline=7&theme=dark" />
+    <!-- UPDATED THIS LINE with TypeScript, Node.js, Next.js, and NestJS -->
+    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript,html,css,react,nextjs,tailwind,nodejs,nestjs,git,vscode,figma,mysql,idea,dotnet&perline=9&theme=dark" />
   </a>
 </p>
 

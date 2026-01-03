@@ -35,8 +35,8 @@ Collection of the tools and languages I'm proficient with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- UPDATED THIS LINE with GitHub, Postman, PowerShell, C++, C#, Windows, and Spring Boot. Adjusted layout. -->
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,javascript,typescript,html,css,react,nextjs,tailwind,nodejs,nestjs,spring,dotnet,vite,npm,linux,windows,aws,git,github,postman,powershell,vscode,figma,mysql,idea&perline=10&theme=dark" />
+    <!-- UPDATED THIS LINE with Google Cloud. The layout is now a perfect 3x10 grid. -->
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,javascript,typescript,html,css,react,nextjs,tailwind,nodejs,nestjs,spring,dotnet,vite,npm,linux,windows,aws,gcp,git,github,postman,powershell,vscode,figma,mysql,idea&perline=10&theme=dark" />
   </a>
 </p>
 

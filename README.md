@@ -35,7 +35,6 @@ Collection of the tools and languages I'm proficient with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- UPDATED THIS LINE with Google Cloud. The layout is now a perfect 3x10 grid. -->
     <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,javascript,typescript,html,css,react,nextjs,tailwind,nodejs,nestjs,spring,dotnet,vite,npm,linux,windows,aws,gcp,git,github,postman,powershell,vscode,figma,mysql,idea&perline=10&theme=dark" />
   </a>
 </p>
@@ -48,9 +47,10 @@ Here are some of the projects I've worked on. You can find more on my repositori
 
 | Project Name | Description | Techs Used |
 | :--- | :--- | :--- |
-| **[Documentations Repo](https://github.com/Kzu0-afk/Documentations)** | A repository for functional requirements, Gantt Charts, ERD, and UI/UX design. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) |
-| **[blockchain-notepad](https://github.com/Kzu0-afk/blockchain-notepad)** | A decentralized note-taking application using basic blockchain principles. | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| **[ai-weather](https://github.com/Kzu0-afk/ai-weather)** | A full-stack, intelligent weather application with a clean, provider-agnostic architecture. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
 | **[ledgerly-web](https://github.com/Kzu0-afk/ledgerly-web)** | A web-based ledger application for tracking personal transactions, built with Python. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **[blockchain-notepad](https://github.com/Kzu0-afk/blockchain-notepad)** | A decentralized note-taking application using basic blockchain principles. | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| **[Documentations Repo](https://github.com/Kzu0-afk/Documentations)** | A repository for functional requirements, Gantt Charts, ERD, and UI/UX design. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) |
 
 ---
 

@@ -35,8 +35,8 @@ Collection of the tools and languages I'm proficient with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- UPDATED THIS LINE with TypeScript, Node.js, Next.js, and NestJS -->
-    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript,html,css,react,nextjs,tailwind,nodejs,nestjs,git,vscode,figma,mysql,idea,dotnet&perline=9&theme=dark" />
+    <!-- UPDATED THIS LINE with GitHub, Postman, PowerShell, C++, C#, Windows, and Spring Boot. Adjusted layout. -->
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,javascript,typescript,html,css,react,nextjs,tailwind,nodejs,nestjs,spring,dotnet,vite,npm,linux,windows,aws,git,github,postman,powershell,vscode,figma,mysql,idea&perline=10&theme=dark" />
   </a>
 </p>
 
